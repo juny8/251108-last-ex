@@ -37,10 +37,10 @@ export function Hero() {
   
   const defaultInfo = {
     greeting: "안녕하세요,",
-    name: "오늘이 마지막 연습일까요?",
+    name: "와 끝이다",
     title: "그러길 바라요",
     description: "프롭테크 기술로 부동산 시장을 분석합니다.",
-    profileImage: "/uploads/hero-profile-1761477237286.png",
+    profileImage: "/uploads/hero-profile-1762568860869.jpg",
     backgroundImage: "",
     backgroundVideo: "",
     backgroundOpacity: 0.1,
